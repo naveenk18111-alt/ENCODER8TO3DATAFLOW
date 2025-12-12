@@ -67,8 +67,10 @@ endmodule
 ```
 
 ## RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling:
+<img width="1920" height="1080" alt="DE enc8-3 5 1" src="https://github.com/user-attachments/assets/350958cd-e3b0-4ebd-9526-8c3deb52f1eb" />
 
 ## TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling:
+<img width="1920" height="1080" alt="DE enc8-3 5 2" src="https://github.com/user-attachments/assets/0bfb6c4f-3db2-4a9a-a670-4d9004c32f60" />
 
 ## RESULT:
 Thus The Implementing Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables executed succesfully.
